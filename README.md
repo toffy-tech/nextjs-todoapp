@@ -1,5 +1,5 @@
 ## reference
-https://qiita.com/Ryukuu0919/items/574b989c2ca3dea31693
+https://qiita.com/Ryukuu0919/items/574b989c2ca3dea31693{:target="_blank"}
 
 ## Getting Started
 
